@@ -1,4 +1,4 @@
-# Transfer Learning
+# Transfer Learning in Pytorch
 
 Implementation of Transfer Learning using Pytorch
 
