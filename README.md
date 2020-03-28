@@ -2,7 +2,7 @@
 
 Implementation of Transfer Learning using Pytorch
 
-[cats_vgg_dogs](cats_vgg_dogs.ipynb) - This is the actual implementation of transfer learning with VGG16 architecture using pretrained network weights.
+[cats_vs_dogs](cats_vs_dogs.ipynb) - This is the actual implementation of transfer learning with VGG16 architecture using pretrained network weights.
 
 [Cifar10](Cifar10.ipynb) - This is the manual implementation of transfer learning with VGG16 architecture without any pretrained network weights.
 
